@@ -1,0 +1,24 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Apr 13 22:07:32 2023"
+  rime_version: 1.5.3
+patch:
+  "style/color_scheme": psionics
+  "style/display_tray_icon": true
+  "style/font_face": "Sarasa UI SC"
+  "style/font_point": 12
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/label_format": "%s."
+  "style/layout/border_width": 0
+  "style/layout/candidate_spacing": 12
+  "style/layout/hilite_padding": 4
+  "style/layout/hilite_spacing": 4
+  "style/layout/margin_x": 6
+  "style/layout/margin_y": 6
+  "style/layout/min_height": 0
+  "style/layout/min_width": 160
+  "style/layout/round_corner": 6
+  "style/layout/spacing": 12
